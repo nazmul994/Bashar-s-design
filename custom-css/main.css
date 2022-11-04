@@ -1,0 +1,95 @@
+    .financial-btn {
+        background-color: #FF468F;
+        border: none;
+        padding: 8px 16px;
+        margin-left: 20px;
+    }
+    
+    .submit-btn {
+        background-color: #FF468F;
+        border: none;
+        padding: 10px 24px;
+    }
+    
+    .load-btn {
+        background-color: #FF468F;
+        border: none;
+        padding: 10px 42px;
+    }
+    
+    .header {
+        background-image: linear-gradient( 60deg, #2937FB, #3C008A);
+    }
+    
+    #h1 {
+        margin-top: 80px;
+    }
+    
+    .text-color {
+        color: #FF468F;
+        margin-top: 120px;
+    }
+    
+    .banner-img {
+        width: 100%;
+        height: auto;
+        margin-top: 72px;
+    }
+    
+    #service-img-icons {
+        width: 50%;
+    }
+    
+    .text-case-study {
+        color: #FF468F;
+    }
+    
+    .vedio-img {
+        width: 92%;
+        margin-top: 72px;
+        margin-bottom: 72px;
+    }
+    
+    .brand-exprience {
+        margin: 50px;
+    }
+    
+    .text-anchor a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    #industry {
+        color: #FF468F;
+    }
+    
+    .digital-img {
+        width: 92%;
+        margin-top: 72px;
+        margin-bottom: 72px;
+    }
+    /* slider img */
+    
+    .client-details {
+        padding: 100px 50px;
+    }
+    
+    .client-name {
+        padding-top: 15px;
+    }
+    
+    .Read-more-btn {
+        background-color: white;
+        color: #FF468F;
+        border: 1px solid #FF468F;
+        border-radius: 0%;
+    }
+    
+    .view-more-text {
+        letter-spacing: 10px;
+        color: gray;
+    }
+    
+    .btn-email {
+        background-color: #FF468F;
+    }
